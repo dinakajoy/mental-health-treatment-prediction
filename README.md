@@ -103,12 +103,12 @@ Insights:
 
 We used the following metrics to validate the model performance:
 
+✅ Classification Report
+✅ Cross-Validation: [0.835 0.835 0.86  0.775 0.825]
 ✅ Accuracy: 0.8327
 ✅ Precision: 0.8243, Recall: 0.8841, F1-Score: 0.8531
 ✅ ROC-AUC Score: 0.8696
 ✅ Confusion Matrix
-✅ Classification Report
-✅ Cross-Validation
 
 <div align="center"> <img src="images/confusion-matrix.png" width="400" /></div>
 <div align="center"> <img src="images/roc-curve.png" width="400" /></div>
